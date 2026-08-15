@@ -8,7 +8,7 @@ Este repositório disponibiliza o código-fonte e os artefatos necessários para
 
 ## Conteúdo do repositório
 
-O arquivo principal do projeto é o notebook [`tcc-transformer-fake-news-pt.ipynb`](./tcc-transformer-fake-news-pt.ipynb). Ele reúne todas as etapas do experimento:
+O arquivo principal do projeto é o notebook [`tcc-transformer-fake-news-pt.ipynb`](tcc_transformer_fake_news_pt.ipynb). Ele reúne todas as etapas do experimento:
 
 | Etapa | Descrição |
 |---|---|
