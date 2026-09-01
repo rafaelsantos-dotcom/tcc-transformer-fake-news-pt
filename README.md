@@ -1,14 +1,14 @@
-# Implementação do TCC — Detecção de Fake News com BERTimbau
+## Objetivo do repositório
 
-Este repositório contém o notebook utilizado no Trabalho de Conclusão de Curso em Engenharia de Software, cujo objetivo é avaliar experimentalmente o modelo pré-treinado **BERTimbau**, baseado na arquitetura Transformer, na classificação binária de notícias verdadeiras e falsas escritas em português brasileiro.
+O repositório reúne o código utilizado no experimento, as configurações principais e as instruções para sua execução. Dessa forma, é possível consultar as etapas do trabalho e reproduzir o procedimento em condições semelhantes às descritas no TCC.
 
 ## Objetivo do repositório
 
-Este repositório disponibiliza o código-fonte e os artefatos necessários para que o experimento possa ser consultado, auditado e executado em condições semelhantes às utilizadas no desenvolvimento do trabalho.
+Este repositório reúne o código e os arquivos utilizados no experimento, permitindo consultar, reproduzir e verificar as etapas apresentadas no TCC.
 
 ## Conteúdo do repositório
 
-O arquivo principal do projeto é o notebook [`tcc-transformer-fake-news-pt.ipynb`](tcc_transformer_fake_news_pt.ipynb). Ele reúne todas as etapas do experimento:
+O arquivo principal do projeto é o notebook [`tcc_transformer_fake_news_pt.ipynb`](tcc_transformer_fake_news_pt.ipynb). Ele reúne todas as etapas do experimento:
 
 | Etapa | Descrição |
 |---|---|
@@ -28,11 +28,11 @@ A execução foi preparada para o **Google Colaboratory**, ambiente que permite 
 
 ### 1. Baixe o notebook
 
-Acesse o arquivo `tcc-transformer-fake-news-pt.ipynb` no repositório. Na página do arquivo, selecione a opção **Download raw file** ou utilize o ícone de download para salvar o notebook no computador.
+Acesse o arquivo `tcc_transformer_fake_news_pt.ipynb` no repositório. Na página do arquivo, selecione a opção **Download raw file** ou utilize o ícone de download para salvar o notebook no computador.
 
 ### 2. Abra o Google Colaboratory
 
-Acesse [colab.research.google.com](https://colab.research.google.com) e faça login com uma conta Google. Na página inicial, selecione **Arquivo → Fazer upload de notebook** e escolha o arquivo `tcc-transformer-fake-news-pt.ipynb` que foi baixado.
+Acesse [colab.research.google.com](https://colab.research.google.com) e faça login com uma conta Google. Na página inicial, selecione **Arquivo → Fazer upload de notebook** e escolha o arquivo `tcc_transformer_fake_news_pt.ipynb` que foi baixado.
 
 ### 3. Ative a GPU
 
@@ -100,7 +100,7 @@ Para citar ou consultar este projeto, utilize o endereço:
 
 ---
 
-**Projeto acadêmico desenvolvido para fins de pesquisa e documentação científica.**
+**Este repositório foi criado como parte do Trabalho de Conclusão de Curso em Engenharia de Software.**
 
 ## Referências úteis
 
