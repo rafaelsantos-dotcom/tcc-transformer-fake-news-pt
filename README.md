@@ -69,6 +69,12 @@ O treinamento utiliza três épocas, batch de 4 exemplos por dispositivo, acumul
 
 O conjunto de teste não participa da atualização dos parâmetros nem da seleção do melhor checkpoint. Ele é utilizado somente na avaliação final, após o treinamento e a seleção baseada no conjunto de validação.
 
+## Ambiente computacional
+
+O experimento foi executado no Google Colaboratory, utilizando Python versão 3.13.15, em sistema Linux 6.6.122+, arquitetura x86_64. O treinamento foi realizado em uma GPU NVIDIA Tesla T4, com CUDA versão 12.8.
+
+As bibliotecas utilizadas foram PyTorch versão 2.11.0+cu128, Transformers versão 5.16.1, Datasets versão 4.0.0, Scikit-learn versão 1.6.1, Pandas versão 2.2.3, NumPy versão 2.1.3, Seaborn versão 0.13.2, Matplotlib versão 3.10.0 e Accelerate versão 1.14.0.
+
 ## Reprodutibilidade e limitações
 
 As sementes, os parâmetros e as principais etapas do experimento estão registrados no notebook para favorecer a reprodução em ambiente semelhante. Ainda assim, pequenas variações nos resultados podem ocorrer em razão da versão das bibliotecas, da disponibilidade e do tipo de GPU, do ambiente do Colab e das condições de acesso ao dataset.
