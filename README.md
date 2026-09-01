@@ -2,10 +2,6 @@
 
 O repositório reúne o código utilizado no experimento, as configurações principais e as instruções para sua execução. Dessa forma, é possível consultar as etapas do trabalho e reproduzir o procedimento em condições semelhantes às descritas no TCC.
 
-## Objetivo do repositório
-
-Este repositório reúne o código e os arquivos utilizados no experimento, permitindo consultar, reproduzir e verificar as etapas apresentadas no TCC.
-
 ## Conteúdo do repositório
 
 O arquivo principal do projeto é o notebook [`tcc_transformer_fake_news_pt.ipynb`](tcc_transformer_fake_news_pt.ipynb). Ele reúne todas as etapas do experimento:
