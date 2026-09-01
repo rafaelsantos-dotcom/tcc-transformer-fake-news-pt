@@ -34,7 +34,7 @@ Acesse [colab.research.google.com](https://colab.research.google.com) e faça lo
 
 Com o notebook aberto, selecione:
 
-> **Ambiente de execução → Alterar tipo de ambiente de execução → T4 GPU → Salvar**
+No menu do Colab, selecione **Ambiente de execução → Alterar tipo de ambiente de execução** e escolha uma GPU disponível. A execução registrada neste projeto utilizou uma GPU NVIDIA Tesla T4.
 
 Caso a opção **T4 GPU** não esteja disponível, selecione outra GPU compatível. O experimento foi executado com sucesso em uma GPU Tesla T4, mas a disponibilidade do acelerador pode variar conforme o ambiente utilizado.
 
